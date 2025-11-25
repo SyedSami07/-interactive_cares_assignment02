@@ -4,4 +4,4 @@
 
 # Email: syedsami.connect@gmail.com
 
-[ Live url](https://syedsamiportfolio.netlify.app/)
+[ Live url](https://cssassignmentsami.netlify.app/)
